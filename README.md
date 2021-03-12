@@ -4,7 +4,9 @@ APLIKASI SISTEM INFORMASI HARGA TANAMAN PANGAN DAN HORTIKULTURA DINAS TANAMAN PA
 Demo:
 
 Link Halaman Depan = http://adkomback.com/project/hargatanaman/mainapp.php?unit=home_unit
+
 Link Halaman Admin = http://adkomback.com/project/hargatanaman/admin/login.php
+
 Nama Pengguna : admin
 Kata Sandi : admin
 
